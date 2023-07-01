@@ -21,4 +21,4 @@ If no players win (i.e. no one gets their estimated number of tricks) then no sc
 Scoring
 Players who get the EXACT same number of tricks as they estimated are considered winners. Points are calculated based on the following rules:
 
-Main points (X): the number of tricks estimated by the player is added to their score if they won, plus the value of the game. The value of the game increases5 by 2 each time.
+Main points (X): the number of tricks estimated by the player is added to their score if they won, plus the value of the game. The value of the game increases by 2 each time.
